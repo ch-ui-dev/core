@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.5.0",
   "devDependencies": {
-    "@stencil/core": "4.18.3-dev.1719344120.e32bcd8",
+    "@stencil/core": "4.19.0",
     "@nx/esbuild": "^18.3.4",
     "@nx/js": "18.3.4",
     "@nx/storybook": "^18.3.4",
